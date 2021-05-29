@@ -1,0 +1,97 @@
+body{
+  background-color: black;
+}
+.header{
+  padding:10px;
+}
+.row{
+  margin-left: 10px;
+  margin-right: 0px;
+}
+.manga-col{
+  margin: 15px;
+}
+.card-title{
+  text-align: center;
+  color: grey;
+}
+.card-body{
+  background-color: #f0e3ca;
+}
+.card-link{
+  color: white;
+}
+.nav-item{
+  font-size: 1.5rem;
+  padding: 3px;
+}
+.navbar-brand{
+  margin-left: 2%;
+  font-size: 2rem;
+}
+.deckImg{
+  transition: transform .5s ease ;
+}
+/* manga1 css */
+.mangaImg{
+  width: 15.1%;
+  margin: 4% 4% 0% 4%;
+  float: left;
+}
+h2{
+  margin-top: 11.3%;
+}
+.aboutManga{
+  margin: 2% 0% 0% 4%;
+  width: 15%;
+}
+.heading{
+  color: #f0e3ca;
+}
+.textaeaWrapper{
+  position: absolute;
+  left: 23%;
+  bottom: 5.6%;
+}
+.text{
+  background-color: #343a40;
+  color: grey;
+}
+.submit{
+  position: absolute;
+  margin-left: 2%;
+  bottom:3%;
+}
+/* ch1 */
+.adbox{
+  margin-left: 4%;
+  margin-bottom: 2%;
+  height: 10vh;
+  background-color: grey;
+}
+ .chapterImages{
+   width: 120vh;
+   height: 86vh;
+  /* display: inline; */
+  overflow: auto;
+  margin-left: 4%;
+}
+ .pages{
+  width: 116vh;
+  padding: 0%;
+  margin-bottom: 1%;
+}
+ .answerBox{
+   position: absolute;
+   top: 190px;
+   right: 10px;
+  background-color: grey;
+}
+/* .card{
+  margin-top: 2%;
+  margin-left: 3.2%;
+  background-color: black;
+}
+.card2{
+  padding-top: 2%;
+} */
